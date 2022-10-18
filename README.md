@@ -1,6 +1,6 @@
 - Hi! I’m @LostVoyager, also known as Viktor Monteiro.
 - I’m a Brazilian CS undergraduate, always looking for new challenges and opportunities for growth. 
-- Interested in programing, gaming, anime and all thing tech. 
+- Interested in programming, gaming, anime and all thing tech. 
 - I'm not much of a social media user but feel free to hit me up on Discord (neskVIK🐰#8869) or LinkedIn (@lostvoyager) if you want to collaborate on any cool projects. :)
 - Currently working as a software developer in the financial sector and posting some of my side-projects in here as I learn my way into Full-Stack Web Development.
 
